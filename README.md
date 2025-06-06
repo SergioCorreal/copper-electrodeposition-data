@@ -1,1 +1,1 @@
-# CuED
+# copper-electrodeposition-data
